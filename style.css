@@ -1,0 +1,16 @@
+   /* .container{
+  height: 100vh;  
+ background-image: url(./wolfgang-hasselmann-bR_-gllg7Bs-unsplash.png);
+ background-position: center;
+ background-size: 100%;
+ padding-block: 30px;
+} 
+   */
+body{
+  background-image: url(./clouds-3488632_1280.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.card{
+
+}
